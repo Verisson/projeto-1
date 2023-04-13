@@ -1,2 +1,5 @@
 # dio-desafio-github-projeto-1
-Meu primeiro projeto web.
+Repositorio criado para o desafio de projeto.
+
+## Link úteis
+[sintaxe_basica_markdown](https://www.markdownguide.org/)
